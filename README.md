@@ -1,6 +1,9 @@
 # ibox
+
+ibox新版1.1.5  encryptkey，data加解密算法
+
 多线程特别优化版
-5-23 最新版1.1.4 Ibox wtoken算法已更新 vx:irabbit666
+0604 最新版1.1.5 Ibox wtoken算法已更新 vx:irabbit666
 ibox--wtoken算法
 libtiger_tally  wtoken算法
 支持最新版
